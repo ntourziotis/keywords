@@ -1,0 +1,1 @@
+<?php header('Location: /app.php?r=/login', true, 302); exit;
